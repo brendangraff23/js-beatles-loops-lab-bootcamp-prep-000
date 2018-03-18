@@ -22,3 +22,4 @@ function johnLennonFacts(array) {
   return mArray
   
 }
+
