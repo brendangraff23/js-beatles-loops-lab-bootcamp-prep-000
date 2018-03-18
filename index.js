@@ -30,7 +30,7 @@ function iLoveTheBeatles(number)
   do {
     mArray.push('I love the Beatles!');
     number++;
-  } while (number < 14)
+  } while (number < 15)
   
   return mArray;
 }
