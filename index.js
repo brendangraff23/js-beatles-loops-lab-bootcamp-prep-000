@@ -28,7 +28,7 @@ function iLoveTheBeatles(number)
   var mArray = [];
   number + 1;
   do {
-    mArray.push('I love the Beatles');
+    mArray.push('I love the Beatles!');
     number++;
   } while (number < 14)
   
