@@ -31,4 +31,6 @@ function iLoveTheBeatles(number)
     mArray.push('I love the Beatles');
     number++;
   } while (number < 14)
+  
+  return mArray;
 }
